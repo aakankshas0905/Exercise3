@@ -1,0 +1,5 @@
+What is the difference between append and override in spark wrrite mode?
+========================================================================
+The difference between append and overwrite mode when we write the data to a directory is-
+Append mode-If the directory already exists it will append the data to directory.
+Override mode-If the directory already exists it will override the data to the directory.
